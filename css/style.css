@@ -1,0 +1,60 @@
+
+.car ul, li{
+    display: inline;
+}
+
+.pos ul{
+    position: relative;
+    margin-left: 600px;
+    
+}
+
+
+.color{
+    
+    background-color: black;
+}
+
+.font{
+    color: white;
+}
+
+.background-color{
+    background-color: rgb(37, 37, 124);
+}
+
+.footer{
+    background-color:rgb(5, 5, 46);
+
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    
+}
+
+.support{
+    position: relative;
+    margin-left: 340px;
+}
+
+.support ul, li{
+    
+    display: inline;
+}
+
+
+
+.support a{
+    background-color: #0d1d77;
+  color: white;
+  padding: 10px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.hero{
+    position: relative;
+    margin-left: 3px;
+}
